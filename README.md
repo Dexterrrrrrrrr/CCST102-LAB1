@@ -23,7 +23,7 @@ Early Diagnosis:
 Benefit: Patients are identified earlier, allowing for timely intervention, lifestyle changes, and preventive measures.
 Outcome: Early management can prevent or delay the onset of diabetes and reduce the risk of complications.
 
-
+## **Marketing: Personalized Recommendations** 
 ## **Finance Fraud Detection**
 
 **Problem Being Solved:**
@@ -31,3 +31,18 @@ ML significantly enhances the ability to detect and prevent credit card fraud by
 
 In this example, a basic dataset is subjected to K-means clustering to identify possible fraud.
 
+![K-means Clustering](https://github.com/user-attachments/assets/8e19236e-7c84-4ae4-b0de-eb69916bc0e6)
+
+* **Type of Machine Learning Used:**
+
+Unsupervised Learning: it is effective in identifying new, unseen patterns of fraudulent behavior, particularly in situations where labeled data is scarce or where fraud patterns are constantly evolving. It serves as a crucial tool for anomaly detection and can work alongside supervised methods to enhance overall detection accuracy.
+
+* **Impact of the Solution:**
+
+The impact of machine learning on fraud detection in finance is profound, driving significant improvements in accuracy, efficiency, and cost-effectiveness while enhancing customer trust and regulatory compliance. As fraud tactics evolve and become more sophisticated, ML provides financial institutions with the tools needed to stay ahead, protect their assets, and maintain a secure environment for their customers.
+
+## **Marketing: Ad Targeting and Retargeting** 
+
+**Problem Being Solved:**
+
+In ad targeting and retargeting addresses critical challenges in digital marketing, such as inefficient audience reach, poor ad relevance, high customer acquisition costs, and low conversion rates. By leveraging ML, marketers can create highly targeted, personalized, and effective ad campaigns that not only improve engagement and conversion rates but also optimize overall ad spend, leading to better business outcomes.
