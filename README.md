@@ -10,4 +10,24 @@
 
  In this example, a decision tree classifier is used to infer from a dataset if a patient has diabetes or not.
 
- 
+ ![Decision Tree](https://github.com/user-attachments/assets/22c5c2b7-3047-43ed-8d47-581da6798ced)
+
+ * **Type of Machine Learning Used:**
+
+Supervised learning - is commonly used in healthcare for tasks where historical data with known outcomes is available. The model learns from this labeled data to make predictions or classifications on new, unseen data.
+
+* **Impact of the Solution:**
+
+Early Diagnosis:
+
+Benefit: Patients are identified earlier, allowing for timely intervention, lifestyle changes, and preventive measures.
+Outcome: Early management can prevent or delay the onset of diabetes and reduce the risk of complications.
+
+
+## **Finance Fraud Detection**
+
+**Problem Being Solved:**
+ML significantly enhances the ability to detect and prevent credit card fraud by leveraging sophisticated algorithms that analyze transaction data for unusual patterns, adapting to new fraud strategies, and providing real-time insights to protect against financial losses.
+
+In this example, a basic dataset is subjected to K-means clustering to identify possible fraud.
+
