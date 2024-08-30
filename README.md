@@ -2,6 +2,8 @@
 
 **Overview:** Machine learning (ML) -  is a branch of artificial intelligence that focuses on developing algorithms and models that allow computers to learn from and make decisions based on data. Instead of being explicitly programmed for each task, ML systems improve their performance by analyzing patterns and insights in large datasets.
 
+
+
 ## Diagnostics that Predictive in Healthcare
 
 * **Problem Being Solved:**
@@ -46,3 +48,15 @@ The impact of machine learning on fraud detection in finance is profound, drivin
 **Problem Being Solved:**
 
 In ad targeting and retargeting addresses critical challenges in digital marketing, such as inefficient audience reach, poor ad relevance, high customer acquisition costs, and low conversion rates. By leveraging ML, marketers can create highly targeted, personalized, and effective ad campaigns that not only improve engagement and conversion rates but also optimize overall ad spend, leading to better business outcomes.
+
+![Click Rate](https://github.com/user-attachments/assets/093712dd-5d80-4ace-b8e4-091b57215fc7)
+
+* **Type of Machine Learning Used:**
+
+**Reinforcement learning**
+
+Reinforcement learning can be used to dynamically adjust ad placements and bids based on real-time performance and feedback to maximize CTR and ROI.
+
+* **Impact of the Solution:**
+
+The application of machine learning in ad targeting and retargeting transforms the effectiveness of advertising campaigns. By improving targeting accuracy, personalization, and ad spend optimization, and by providing real-time adjustments and enhanced customer insights, machine learning significantly boosts the performance of ad campaigns. These advancements lead to higher conversion rates, better ROI, and a more satisfying user experience.
