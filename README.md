@@ -2,6 +2,8 @@
 
 **Overview:** Machine learning (ML) -  is a branch of artificial intelligence that focuses on developing algorithms and models that allow computers to learn from and make decisions based on data. Instead of being explicitly programmed for each task, ML systems improve their performance by analyzing patterns and insights in large datasets.
 
+https://github.com/user-attachments/assets/6afdb42b-4a23-46b7-87c6-8366f135099f
+
 
 ## Diagnostics that Predictive in Healthcare
 
